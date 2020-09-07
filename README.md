@@ -1,6 +1,6 @@
 # My Function 
 
-the function "dbtp" takes two parameters x1->distance and y1->time, it returns the value of speed in floating point. 
+The function "dbtp" takes two parameters x1->distance and y1->time, it returns the value of speed in floating point. 
 
 
 # Getting started
